@@ -1,9 +1,4 @@
-# React Workshop
-
-React Workshop contains hands-on trainings and projects.
-
- - [REACT Session Class-notes](./class-notes/README.md)
-
- - [REACT Projects](./projects/README.md)
-
- - [REACT Coding Challenges](./coding-challenges/README.md) 
+## React 
+#-------------------------------------------------------------------- <br/>
+## Project<br/>
+##1 https://becooon.github.io/React/projects/001-Image-Gallery-App/<br/>
