@@ -3,9 +3,10 @@
 ##1 https://becooon.github.io/react/assignments/SS1-Lesson-Reminder/<br/>
 ##2 https://becooon.github.io/react/assignments/SS2-Employee-List/<br/>
 ##3 https://becooon.github.io/react/assignments/SS3-Interview-Accordion/<br/>
-
+## coding-challenges
+##0 https://becooon.github.io/react/coding-challenges/01-CC-ToDo-App/<br/>
 ## Project<br/>
-##0 https://becooon.github.io/react/projects/000-Football-Legends/
+##0 https://becooon.github.io/react/projects/000-Football-Legends/<br/>
 ##1 https://becooon.github.io/react/projects/001-Image-Gallery-App/<br/>
 ##2 https://becooon.github.io/react/projects/002-Product-List/<br/>
 ##3 https://becooon.github.io/react/projects/003-NBA-Legends-App/<br/>
