@@ -3,6 +3,7 @@
 ##1 https://becooon.github.io/react/assignments/SS1-Lesson-Reminder/<br/>
 ##2 https://becooon.github.io/react/assignments/SS2-Employee-List/<br/>
 ##3 https://becooon.github.io/react/assignments/SS3-Interview-Accordion/<br/>
+##4 https://becooon.github.io/react/assignments/SS4-Random-User/<br/>
 ## coding-challenges
 ##1 https://becooon.github.io/react/coding-challenges/CC-01-ToDo-App/<br/>
 ## Project<br/>
