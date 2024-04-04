@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.0ebf5c31.css",
-    "main.js": "./static/js/main.df2e10fe.js",
+    "main.css": "./static/css/main.97368a14.css",
+    "main.js": "./static/js/main.5a54e012.js",
     "static/media/Becoo.png": "./static/media/Becoo.6a065b8aa39100d7d6cc.png",
     "static/media/map.svg": "./static/media/map.8e5a2a587d26cff3ce6d9abc58da8f5f.svg",
     "static/media/growing-up-woman.svg": "./static/media/growing-up-woman.a158584281f99f0d709c59ea4dee167e.svg",
@@ -13,11 +13,11 @@
     "static/media/padlock.svg": "./static/media/padlock.8d2c33d2e558cdfc835d35b8ace79550.svg",
     "static/media/phone.svg": "./static/media/phone.d017e1ae418c694ba9148c0a9001609c.svg",
     "index.html": "./index.html",
-    "main.0ebf5c31.css.map": "./static/css/main.0ebf5c31.css.map",
-    "main.df2e10fe.js.map": "./static/js/main.df2e10fe.js.map"
+    "main.97368a14.css.map": "./static/css/main.97368a14.css.map",
+    "main.5a54e012.js.map": "./static/js/main.5a54e012.js.map"
   },
   "entrypoints": [
-    "static/css/main.0ebf5c31.css",
-    "static/js/main.df2e10fe.js"
+    "static/css/main.97368a14.css",
+    "static/js/main.5a54e012.js"
   ]
 }
