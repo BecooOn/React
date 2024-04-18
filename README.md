@@ -15,3 +15,4 @@
 ##2 https://becooon.github.io/react/projects/002-Product-List/<br/>
 ##3 https://becooon.github.io/react/projects/003-NBA-Legends-App/<br/>
 ##4 https://becooon.github.io/react/projects/004-Appointment-App/<br/>
+##6 https://becooon.github.io/react/projects/006-Civilizations-with-react-router/<br/>
