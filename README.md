@@ -18,3 +18,4 @@
 ##4 https://becooon.github.io/react/projects/004-Appointment-App/<br/>
 ##5 https://becooon.github.io/react/projects/002-Product-List/<br/> <!-- added input -->
 ##6 https://becooon.github.io/react/projects/006-Civilizations-with-react-router/<br/>
+##7 https://becooon.github.io/react/projects/007-Store-App/<br/>
