@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "./static/css/main.e588c8e4.css",
-    "main.js": "./static/js/main.f8c76995.js",
-    "static/media/logo.png": "./static/media/logo.6a065b8aa39100d7d6cc.png",
-    "static/media/anta-latin-400-normal.woff2": "./static/media/anta-latin-400-normal.118ab4be98d7558bfd06.woff2",
-    "static/media/anta-latin-400-normal.woff": "./static/media/anta-latin-400-normal.1536b67d29071aaf5442.woff",
-    "static/media/anta-latin-ext-400-normal.woff2": "./static/media/anta-latin-ext-400-normal.fb0e92e0310129b0b7e6.woff2",
-    "static/media/anta-math-400-normal.woff2": "./static/media/anta-math-400-normal.28afed649ac94b8ff16c.woff2",
-    "static/media/anta-latin-ext-400-normal.woff": "./static/media/anta-latin-ext-400-normal.990067e02056051175fb.woff",
-    "static/media/anta-math-400-normal.woff": "./static/media/anta-math-400-normal.8c46a3b893b35705cca2.woff",
-    "static/media/anta-symbols-400-normal.woff2": "./static/media/anta-symbols-400-normal.f330b98bced079fc5b28.woff2",
-    "static/media/anta-symbols-400-normal.woff": "./static/media/anta-symbols-400-normal.85d328cdfe724e50a573.woff",
-    "index.html": "./index.html",
-    "main.e588c8e4.css.map": "./static/css/main.e588c8e4.css.map",
-    "main.f8c76995.js.map": "./static/js/main.f8c76995.js.map"
+    "main.css": "/static/css/main.9c176597.css",
+    "main.js": "/static/js/main.63599033.js",
+    "static/media/logo.png": "/static/media/logo.6a065b8aa39100d7d6cc.png",
+    "static/media/anta-latin-400-normal.woff2": "/static/media/anta-latin-400-normal.118ab4be98d7558bfd06.woff2",
+    "static/media/anta-latin-400-normal.woff": "/static/media/anta-latin-400-normal.1536b67d29071aaf5442.woff",
+    "static/media/anta-latin-ext-400-normal.woff2": "/static/media/anta-latin-ext-400-normal.fb0e92e0310129b0b7e6.woff2",
+    "static/media/anta-math-400-normal.woff2": "/static/media/anta-math-400-normal.28afed649ac94b8ff16c.woff2",
+    "static/media/anta-latin-ext-400-normal.woff": "/static/media/anta-latin-ext-400-normal.990067e02056051175fb.woff",
+    "static/media/anta-math-400-normal.woff": "/static/media/anta-math-400-normal.8c46a3b893b35705cca2.woff",
+    "static/media/anta-symbols-400-normal.woff2": "/static/media/anta-symbols-400-normal.f330b98bced079fc5b28.woff2",
+    "static/media/anta-symbols-400-normal.woff": "/static/media/anta-symbols-400-normal.85d328cdfe724e50a573.woff",
+    "index.html": "/index.html",
+    "main.9c176597.css.map": "/static/css/main.9c176597.css.map",
+    "main.63599033.js.map": "/static/js/main.63599033.js.map"
   },
   "entrypoints": [
-    "static/css/main.e588c8e4.css",
-    "static/js/main.f8c76995.js"
+    "static/css/main.9c176597.css",
+    "static/js/main.63599033.js"
   ]
 }
