@@ -1,8 +1,9 @@
 {
   "files": {
     "main.css": "./static/css/main.e588c8e4.css",
-    "main.js": "./static/js/main.148bd9f0.js",
+    "main.js": "./static/js/main.f0d8fba3.js",
     "static/media/logo.png": "./static/media/logo.6a065b8aa39100d7d6cc.png",
+    "static/media/loading.gif": "./static/media/loading.42aaa181adb3af3bef08.gif",
     "static/media/anta-latin-400-normal.woff2": "./static/media/anta-latin-400-normal.118ab4be98d7558bfd06.woff2",
     "static/media/anta-latin-400-normal.woff": "./static/media/anta-latin-400-normal.1536b67d29071aaf5442.woff",
     "static/media/anta-latin-ext-400-normal.woff2": "./static/media/anta-latin-ext-400-normal.fb0e92e0310129b0b7e6.woff2",
@@ -13,10 +14,10 @@
     "static/media/anta-symbols-400-normal.woff": "./static/media/anta-symbols-400-normal.85d328cdfe724e50a573.woff",
     "index.html": "./index.html",
     "main.e588c8e4.css.map": "./static/css/main.e588c8e4.css.map",
-    "main.148bd9f0.js.map": "./static/js/main.148bd9f0.js.map"
+    "main.f0d8fba3.js.map": "./static/js/main.f0d8fba3.js.map"
   },
   "entrypoints": [
     "static/css/main.e588c8e4.css",
-    "static/js/main.148bd9f0.js"
+    "static/js/main.f0d8fba3.js"
   ]
 }
